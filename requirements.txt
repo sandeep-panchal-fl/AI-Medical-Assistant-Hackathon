@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+langchain
+langchain_community
+boto3
+langchain-aws
+pyyaml
+opensearch-py
+tqdm
