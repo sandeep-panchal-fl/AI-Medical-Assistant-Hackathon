@@ -17,7 +17,8 @@ Our architecture includes multiple specialized agents:
 All these components are orchestrated through **Streamlit UI**, backed by **AWS Bedrock models** for LLM and embeddings, and **OpenSearch** for knowledgebase
 
 ---
-![Flow Diagram](/docs/medical-assistant-flow-diagram.png)
+## Architecutre Diagram
+![Architecture Diagram](/docs/no_bg_title_ai_medical_architecture.drawio.png)
 ---
 
 ## ⚙️ How We Built It
