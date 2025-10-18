@@ -6,6 +6,16 @@ An AI-powered medical assistant that leverages AWS Bedrock and OpenSearch to pro
 Healthcare professionals spend a significant portion of their time collecting patient details, summarizing symptoms, and preparing medical reports. This repetitive process delays diagnosis and reduces face-to-face time with patients.  
 We were inspired to create an **AI Medical Assistant** that automates early-stage symptom analysis, retrieves relevant medical knowledge, and generates structured reports — helping doctors focus on clinical decisions rather than documentation.
 
+---
+## Demo Video Link
+https://vimeo.com/1128464969/a7f24f5dae?share=copy&fl=sv&fe=ci
+
+---
+## Test our deployed application
+http://3.80.111.149:8501/
+
+
+---
 ## 🏗️ Architecture Overview
 Our architecture includes multiple specialized agents:
 - **Conversation Agent** – Handles patient dialogue via natural language.  
