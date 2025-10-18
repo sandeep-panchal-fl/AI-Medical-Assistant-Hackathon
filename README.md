@@ -10,6 +10,10 @@ We were inspired to create an **AI Medical Assistant** that automates early-stag
 ## Demo Video Link
 https://vimeo.com/1128464969/a7f24f5dae?share=copy&fl=sv&fe=ci
 
+---
+## Test our deployed application
+http://3.80.111.149:8501/
+
 
 ---
 ## 🏗️ Architecture Overview
