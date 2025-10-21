@@ -6,13 +6,18 @@ An AI-powered medical assistant that leverages AWS Bedrock and OpenSearch to pro
 Healthcare professionals spend a significant portion of their time collecting patient details, summarizing symptoms, and preparing medical reports. This repetitive process delays diagnosis and reduces face-to-face time with patients.  
 We were inspired to create an **AI Medical Assistant** that automates early-stage symptom analysis, retrieves relevant medical knowledge, and generates structured reports — helping doctors focus on clinical decisions rather than documentation.
 
+
 ---
 ## Demo Video Link
-https://vimeo.com/1128464969/a7f24f5dae?share=copy&fl=sv&fe=ci
+[Application Demo Video](https://vimeo.com/1128464969/a7f24f5dae?share=copy&fl=sv&fe=ci) - Video hyperlink demonstrating the usage of application
 
 ---
 ## Test our deployed application
-http://3.80.111.149:8501/
+[AI Medical Assistant Application](http://medical-assistant-2101270208.us-east-1.elb.amazonaws.com/) - Click the hyperlink to test the application
+
+---
+## Source Dataset:
+[behzadhassan/sympscan-symptomps-to-disease](https://www.kaggle.com/datasets/behzadhassan/sympscan-symptomps-to-disease?select=Diseases_and_Symptoms_dataset.csv) - Dataset from kaggle used for knowledgebase
 
 
 ---
@@ -24,7 +29,7 @@ Our architecture includes multiple specialized agents:
 - **Report Generator Agent** – Produces a structured clinical summary and recommendation draft.  
 - **Feedback Loop** – Updates knowledgebase based on doctor edits.  
 
-All these components are orchestrated through **Streamlit UI**, backed by **AWS Bedrock models** for LLM and embeddings, and **OpenSearch** for knowledgebase
+All these components are orchestrated through **Streamlit UI**, backed by **AWS Bedrock models** for LLM and embeddings, and **OpenSearch** for knowledgebase in RAG pipeline
 
 ---
 ## Architecutre Diagram
