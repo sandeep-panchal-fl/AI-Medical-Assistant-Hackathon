@@ -13,7 +13,7 @@ We were inspired to create an **AI Medical Assistant** that automates early-stag
 
 ---
 ## Test our deployed application
-[AI Medical Assistant Application](http://medical-assistant-2101270208.us-east-1.elb.amazonaws.com/) - Click the hyperlink to test the application
+[AI Medical Assistant Application](http://ai-medical-assistant-1773395845.us-east-1.elb.amazonaws.com/) - Click the hyperlink to test the application
 
 ---
 ## Source Dataset:
